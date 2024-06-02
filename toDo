@@ -1,0 +1,6 @@
+check if quality is valid:
+    >=0
+    <=50
+    handle exception Sulfuras
+check if quality degrades twice as fast after sell by date is reached
+    
