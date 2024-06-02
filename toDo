@@ -3,4 +3,5 @@ check if quality is valid:
     <=50
     handle exception Sulfuras
 check if quality degrades twice as fast after sell by date is reached
-    
+    handle Sulfuras exeption, does not decrease
+    handle Backstage passes exception, drops to 0 immediately
